@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fovussimplefsreact-dev-79c20-authRole",
+      "UnauthRoleArn": "arn:aws:iam::590183764450:role/amplify-fovussimplefsreact-dev-79c20-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::590183764450:role/amplify-fovussimplefsreact-dev-79c20-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fovussimplefsreact-dev-79c20-deployment",
+      "UnauthRoleName": "amplify-fovussimplefsreact-dev-79c20-unauthRole",
+      "StackName": "amplify-fovussimplefsreact-dev-79c20",
+      "StackId": "arn:aws:cloudformation:us-east-1:590183764450:stack/amplify-fovussimplefsreact-dev-79c20/35e57050-f43f-11ee-ab54-1220905aee2f",
+      "AmplifyAppId": "d2m4vw5d7kwa5t"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2m4vw5d7kwa5t",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
