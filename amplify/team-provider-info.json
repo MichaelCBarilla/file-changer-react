@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-filechangerreact-dev-ae836-authRole",
+      "UnauthRoleArn": "arn:aws:iam::590183764450:role/amplify-filechangerreact-dev-ae836-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::590183764450:role/amplify-filechangerreact-dev-ae836-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-filechangerreact-dev-ae836-deployment",
+      "UnauthRoleName": "amplify-filechangerreact-dev-ae836-unauthRole",
+      "StackName": "amplify-filechangerreact-dev-ae836",
+      "StackId": "arn:aws:cloudformation:us-east-1:590183764450:stack/amplify-filechangerreact-dev-ae836/b17cb3b0-0117-11ef-b12c-12537b3c4b27",
+      "AmplifyAppId": "d1s0xgvkbgstsp"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1s0xgvkbgstsp",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
